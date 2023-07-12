@@ -1,0 +1,67 @@
+body{
+    background:url("data:image/jpeg;base64,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");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#face{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin:auto;
+    margin-top: 13%;
+    box-shadow: 5px 5px 5px 2px black;
+}
+#eyes{
+    display:flex;
+    width: 300px;
+    justify-content: space-evenly;
+    padding-top:70px ;
+}
+#leye{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+}
+#ineye{
+    height: 25px;
+    width: 25px;
+    background-color:white;
+    border-radius: 50%;
+
+}
+#reye{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+}
+#iball{
+    height: 25px;
+    width: 25px;
+    background-color:white;
+    border-radius: 50%;
+
+}
+#mouth{
+    height: 25px;
+    width: 75px;
+    background: white;
+    margin: auto;
+    margin-top: 60px;
+    border: 4px solid black;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+#tongue{
+    height: 50px;
+    width: 25px;
+    background: hotpink;
+    margin:auto;
+    margin-top: 10px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 10%;
+    border-top-right-radius:10% ;
+}
